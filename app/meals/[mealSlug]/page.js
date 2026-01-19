@@ -1,5 +1,5 @@
 import React from "react";
 
-export default function Slugs() {
+export default function MealSlugPage() {
   return <div>page</div>;
 }
